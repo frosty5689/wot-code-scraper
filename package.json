@@ -1,0 +1,24 @@
+{
+  "name": "wot-code-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frosty5689/wot-code-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frosty5689/wot-code-scraper/issues"
+  },
+  "homepage": "https://github.com/frosty5689/wot-code-scraper#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "jsdom": "^19.0.0",
+    "pushover-notifications": "^1.2.2"
+  }
+}
